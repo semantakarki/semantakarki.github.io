@@ -349,6 +349,15 @@ blockquote{
   }
 }
 
+@media (max-width: 420px) {
+
+  #hero{
+    background: url("../img/hero-bga-sanomobile.jpg") top right no-repeat;
+  }
+}
+
+
+
 #hero h1 {
   margin: 0;
   font-size: 64px;
